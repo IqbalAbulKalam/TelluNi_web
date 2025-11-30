@@ -12,7 +12,6 @@ import {
   CarouselPrevious,
   type CarouselApi,
 } from "@/components/ui/carousel"
-import AnimateInView from '@/components/animate-in-view';
 
 export default function Collections() {
   const collectionImages = PlaceHolderImages.filter(img => img.id.startsWith('collection-'));
@@ -46,15 +45,15 @@ export default function Collections() {
   return (
     <section id="collections" className="py-20 md:py-32">
       <div className="container">
-        <AnimateInView>
+        
           <div className="mx-auto mb-12 max-w-3xl text-center">
             <h2 className="font-headline text-3xl font-bold tracking-tight sm:text-4xl">Koleksi Pilihan Kami</h2>
             <p className="mt-4 text-lg text-muted-foreground">
               Jelajahi berbagai pilihan Baju Bodo dengan desain otentik dan modern yang akan membuatmu tampil istimewa.
             </p>
           </div>
-        </AnimateInView>
-        <AnimateInView delay={200}>
+        
+        
           <Carousel
             setApi={setApi}
             opts={{
@@ -90,7 +89,7 @@ export default function Collections() {
           <div className="py-2 text-center text-sm text-muted-foreground">
             Slide {current} dari {count}
           </div>
-        </AnimateInView>
+        
       </div>
     </section>
   );

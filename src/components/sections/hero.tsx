@@ -1,12 +1,11 @@
 import { Button } from '@/components/ui/button';
 import Link from 'next/link';
-import AnimateInView from '@/components/animate-in-view';
 
 export default function Hero() {
   return (
     <section id="home" className="py-20 md:py-32">
       <div className="container flex flex-col items-center justify-center">
-        <AnimateInView>
+        
           <div className="text-center">
             <h1 className="font-headline text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl">
               Rental Baju Bodo mu di TelluNi
@@ -23,7 +22,7 @@ export default function Hero() {
               <Link href="#collections">Lihat lihat dulu</Link>
             </Button>
           </div>
-        </AnimateInView>
+        
       </div>
     </section>
   );

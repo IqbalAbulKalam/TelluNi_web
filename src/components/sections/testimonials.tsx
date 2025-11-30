@@ -1,7 +1,6 @@
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { testimonials } from '@/lib/data';
 import { Star } from 'lucide-react';
-import AnimateInView from '@/components/animate-in-view';
 
 function Rating({ rating }: { rating: number }) {
   return (
@@ -22,18 +21,18 @@ export default function Testimonials() {
   return (
     <section id="testimonials" className="py-20 md:py-32">
       <div className="container">
-        <AnimateInView>
+        
           <div className="mx-auto mb-12 max-w-3xl text-center">
             <h2 className="font-headline text-3xl font-bold tracking-tight sm:text-4xl">Kata Mereka Tentang Kami</h2>
             <p className="mt-4 text-lg text-muted-foreground">
               Kepuasan pelanggan adalah prioritas utama kami.
             </p>
           </div>
-        </AnimateInView>
+        
         <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
           {testimonials.map((testimonial, index) => (
-            <AnimateInView key={index} delay={index * 150}>
-              <Card className="flex h-full flex-col shadow-md transition-shadow hover:shadow-xl">
+            
+              <Card key={index} className="flex h-full flex-col shadow-md transition-shadow hover:shadow-xl">
                 <CardHeader>
                   <div className="flex items-center justify-between">
                     <CardTitle className="font-headline text-xl">{testimonial.name}</CardTitle>
@@ -44,7 +43,7 @@ export default function Testimonials() {
                   <p className="text-muted-foreground">"{testimonial.review}"</p>
                 </CardContent>
               </Card>
-            </AnimateInView>
+            
           ))}
         </div>
       </div>

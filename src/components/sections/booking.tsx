@@ -1,6 +1,5 @@
 import { Button } from '@/components/ui/button';
 import { Phone, Mail, MapPin } from 'lucide-react';
-import AnimateInView from '@/components/animate-in-view';
 import Link from 'next/link';
 
 export default function Booking() {
@@ -9,7 +8,7 @@ export default function Booking() {
   return (
     <section id="booking" className="bg-primary/10 py-20 md:py-32">
       <div className="container">
-        <AnimateInView>
+        
           <div className="mx-auto max-w-3xl text-center">
             <h2 className="font-headline text-3xl font-bold tracking-tight sm:text-4xl">
               Siap Tampil Memukau?
@@ -53,7 +52,7 @@ export default function Booking() {
               </div>
             </div>
           </div>
-        </AnimateInView>
+        
       </div>
     </section>
   );
