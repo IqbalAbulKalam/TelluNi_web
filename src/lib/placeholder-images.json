@@ -2,51 +2,33 @@
   "placeholderImages": [
     {
       "id": "collection-1",
-      "description": "Baju Bodo Design 1",
-      "imageUrl": "https://images.unsplash.com/photo-1761125056724-fb6485468a9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx0cmFkaXRpb25hbCUyMGRyZXNzfGVufDB8fHx8MTc2NDM5NzQxMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "description": "Baju Bodo Hijau Turkis",
+      "imageUrl": "https://res.cloudinary.com/dfvl0vfon/image/upload/v1764515702/Kode_Hijau_turkis_Order_via_cara_order_SS_produk_krim_ke_akun_somsed_TelluNI_Ig_TelluNI_fhasio_atifz4.jpg",
       "imageHint": "traditional dress"
     },
     {
       "id": "collection-2",
-      "description": "Baju Bodo Design 2",
-      "imageUrl": "https://images.unsplash.com/photo-1763959951409-430bfebd5515?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxlbGVnYW50JTIwZ293bnxlbnwwfHx8fDE3NjQ1MTI4OTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "description": "Baju Bodo Elegan",
+      "imageUrl": "https://res.cloudinary.com/dfvl0vfon/image/upload/v1764515702/Order_via_cara_order_SS_produk_krim_ke_akun_somsed_TelluNI_Ig_TelluNI_fhasionstore.idWa_admin_kl1fcb.jpg",
       "imageHint": "elegant gown"
     },
     {
       "id": "collection-3",
-      "description": "Baju Bodo Design 3",
-      "imageUrl": "https://images.unsplash.com/photo-1724856604249-ca73680262e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3ZWRkaW5nJTIwYXR0aXJlfGVufDB8fHx8MTc2NDUxMjg5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "description": "Baju Bodo Mahogani",
+      "imageUrl": "https://res.cloudinary.com/dfvl0vfon/image/upload/v1764515704/KODE_MAHOGANI_Order_via_cara_order_SS_produk_krim_ke_akun_somsed_TelluNI_Ig_TelluNI_fhasionsto_odfjd9.jpg",
       "imageHint": "wedding attire"
     },
     {
       "id": "collection-4",
-      "description": "Baju Bodo Design 4",
-      "imageUrl": "https://images.unsplash.com/photo-1761328559705-3addc2496c6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Zm9ybWFsJTIwd2VhcnxlbnwwfHx8fDE3NjQ1MTI4OTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "description": "Baju Bodo Biru Navi",
+      "imageUrl": "https://res.cloudinary.com/dfvl0vfon/image/upload/v1764515702/KODE_BIRU_NAVIOrder_via_cara_order_SS_produk_krim_ke_akun_somsed_TelluNI_Ig_TelluNI_fhasionsto_bhzzru.jpg",
       "imageHint": "formal wear"
     },
     {
       "id": "collection-5",
-      "description": "Baju Bodo Design 5",
-      "imageUrl": "https://images.unsplash.com/photo-1761254097820-2d0b9994029a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjZXJlbW9uaWFsJTIwY2xvdGhpbmd8ZW58MHx8fHwxNzY0NTEyODkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "description": "Baju Bodo Burgundy Maroon",
+      "imageUrl": "https://res.cloudinary.com/dfvl0vfon/image/upload/v1764515703/KODE_BURGUNDY_MAROON_Order_via_cara_order_SS_produk_krim_ke_akun_somsed_TelluNI_Ig_TelluNI_fha_t3pgb6.jpg",
       "imageHint": "ceremonial clothing"
-    },
-    {
-      "id": "collection-6",
-      "description": "Baju Bodo Design 6",
-      "imageUrl": "https://images.unsplash.com/photo-1695863912770-bc03d3196453?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjdWx0dXJhbCUyMG91dGZpdHxlbnwwfHx8fDE3NjQ1MTI4OTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "cultural outfit"
-    },
-    {
-      "id": "collection-7",
-      "description": "Baju Bodo Design 7",
-      "imageUrl": "https://images.unsplash.com/photo-1568251188392-ae32f898cb3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmYXNoaW9uJTIwZHJlc3N8ZW58MHx8fHwxNzY0NTEyODkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "fashion dress"
-    },
-    {
-      "id": "collection-8",
-      "description": "Baju Bodo Design 8",
-      "imageUrl": "https://images.unsplash.com/photo-1589784755565-502153090f07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkZXNpZ25lciUyMGRyZXNzfGVufDB8fHx8MTc2NDUxMjg5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "designer dress"
     },
     {
       "id": "gallery-1",
