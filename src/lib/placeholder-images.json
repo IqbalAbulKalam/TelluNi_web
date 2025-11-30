@@ -32,75 +32,27 @@
     },
     {
       "id": "gallery-1",
-      "description": "Customer Photo 1",
-      "imageUrl": "https://images.unsplash.com/photo-1576267423445-b2e0074d68a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8aGFwcHklMjBjdXN0b21lcnxlbnwwfHx8fDE3NjQ1MTI4OTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "happy customer"
+      "description": "Customer in Baju Bodo",
+      "imageUrl": "https://res.cloudinary.com/dfvl0vfon/image/upload/v1764515702/bajutokkomodern_bajubridesmaid_bajubodobone_newyork_bajubodomodern_baju_wv6rxx.jpg",
+      "imageHint": "customer photo"
     },
     {
       "id": "gallery-2",
-      "description": "Customer Photo 2",
-      "imageUrl": "https://images.unsplash.com/photo-1656797050042-a57d67bd4ba3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3ZWRkaW5nJTIwcGhvdG98ZW58MHx8fHwxNzY0NDU4NTAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "wedding photo"
+      "description": "Customer wearing traditional dress",
+      "imageUrl": "https://res.cloudinary.com/dfvl0vfon/image/upload/v1764515701/Thanks_For_Order_%EF%B8%8F_mappettuada_bajubodobone_bajubodomodern_bajubodomakassar_vrmwkt.jpg",
+      "imageHint": "happy client"
     },
     {
       "id": "gallery-3",
-      "description": "Customer Photo 3",
-      "imageUrl": "https://images.unsplash.com/photo-1624486217002-846e654ac969?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c21pbGluZyUyMHBlcnNvbnxlbnwwfHx8fDE3NjQ0NzM3NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "smiling person"
+      "description": "Customer at an event",
+      "imageUrl": "https://res.cloudinary.com/dfvl0vfon/image/upload/v1764515702/401662114_1702168423614683_8328060974532037944_n_povnmx.jpg",
+      "imageHint": "traditional attire"
     },
     {
       "id": "gallery-4",
-      "description": "Customer Photo 4",
-      "imageUrl": "https://images.unsplash.com/photo-1614607653708-0777e6d003b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxldmVudCUyMHBob3RvZ3JhcGh5fGVufDB8fHx8MTc2NDQwNjc1NHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "event photography"
-    },
-    {
-      "id": "gallery-5",
-      "description": "Customer Photo 5",
-      "imageUrl": "https://images.unsplash.com/photo-1588352873216-61d174714a6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxmYW1pbHklMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjQ0Njc2MjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "family portrait"
-    },
-    {
-      "id": "gallery-6",
-      "description": "Customer Photo 6",
-      "imageUrl": "https://images.unsplash.com/photo-1756272626109-b3342b560b0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxncmFkdWF0aW9uJTIwcGljdHVyZXxlbnwwfHx8fDE3NjQ1MTI4OTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "graduation picture"
-    },
-    {
-      "id": "gallery-7",
-      "description": "Customer Photo 7",
-      "imageUrl": "https://images.unsplash.com/photo-1733439760749-4180015582f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjb3VwbGUlMjBwaG90b3xlbnwwfHx8fDE3NjQ1MTI4OTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "couple photo"
-    },
-    {
-      "id": "gallery-8",
-      "description": "Customer Photo 8",
-      "imageUrl": "https://images.unsplash.com/photo-1654486614364-206c2a4c7b71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmb3JtYWwlMjBldmVudHxlbnwwfHx8fDE3NjQ1MTI4OTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "formal event"
-    },
-    {
-      "id": "gallery-9",
-      "description": "Customer Photo 9",
-      "imageUrl": "https://images.unsplash.com/photo-1533659828870-95ee305cee3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxlbGVnYW50JTIwd29tYW58ZW58MHx8fHwxNzY0NTEyODkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "elegant woman"
-    },
-    {
-      "id": "gallery-10",
-      "description": "Customer Photo 10",
-      "imageUrl": "https://images.unsplash.com/photo-1747048637027-1f2f08d5358d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjZWxlYnJhdGlvbiUyMHBob3RvfGVufDB8fHx8MTc2NDUxMjg5NHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "celebration photo"
-    },
-    {
-      "id": "gallery-11",
-      "description": "Customer Photo 11",
-      "imageUrl": "https://images.unsplash.com/photo-1576267423445-b2e0074d68a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxncm91cCUyMHBob3RvfGVufDB8fHx8MTc2NDQ5NDIwMXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "group photo"
-    },
-    {
-      "id": "gallery-12",
-      "description": "Customer Photo 12",
-      "imageUrl": "https://images.unsplash.com/photo-1626426452591-b4e2d5ee7f08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxoYXBweSUyMG1vbWVudHxlbnwwfHx8fDE3NjQ1MTI4OTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "happy moment"
+      "description": "Happy customer in our collection",
+      "imageUrl": "https://res.cloudinary.com/dfvl0vfon/image/upload/v1764515701/355819215_793588368788988_7516439862176159763_n_u2h4db.jpg",
+      "imageHint": "event fashion"
     }
   ]
 }
