@@ -1,19 +1,13 @@
-import type { SVGProps } from "react";
+import Image from 'next/image';
 
-export function Logo(props: SVGProps<SVGSVGElement>) {
+export function Logo() {
   return (
-    <svg
-      width="32"
-      height="32"
-      viewBox="0 0 100 100"
-      xmlns="http://www.w3.org/2000/svg"
-      className="text-primary"
-      {...props}
-    >
-      <g className="fill-current">
-        <path d="M50,5A45,45,0,1,1,5,50,45,45,0,0,1,50,5M50,0a50,50,0,1,0,50,50A50,50,0,0,0,50,0Z" />
-        <path d="M50 25 L 25 50 L 50 75 L 75 50 Z" />
-      </g>
-    </svg>
+    <Image
+      src="https://res.cloudinary.com/dfvl0vfon/image/upload/v1764516041/IMG_20230619_075534_475-removebg-preview_yofeps.png"
+      alt="TelluNi Fashion Store Logo"
+      width={32}
+      height={32}
+      className="h-8 w-8"
+    />
   );
 }
