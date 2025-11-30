@@ -19,13 +19,13 @@ const WhatsAppIcon = (props: SVGProps<SVGSVGElement>) => (
 
 
 export default function WhatsAppFAB() {
-  const whatsappLink = `https://wa.me/6281234567890?text=${encodeURIComponent("Halo, saya tertarik untuk menyewa Baju Bodo dari TelluNi Fashion Store.")}`;
+  const whatsappLink = `https://wa.me/6282311117703?text=${encodeURIComponent("Halo, saya tertarik untuk menyewa Baju Bodo dari TelluNi Fashion Store.")}`;
 
   return (
     <Button
       asChild
       size="icon"
-      className="fixed bottom-6 right-6 z-50 h-16 w-16 rounded-full shadow-lg bg-[#25D366] text-white hover:bg-[#128C7E] focus:bg-[#128C7E] transition-colors"
+      className="fixed bottom-6 left-6 z-50 h-16 w-16 rounded-full shadow-lg bg-[#25D366] text-white hover:bg-[#128C7E] focus:bg-[#128C7E] transition-colors"
       aria-label="Chat on WhatsApp"
     >
       <Link href={whatsappLink} target="_blank" rel="noopener noreferrer">

@@ -3,7 +3,7 @@ import { Phone, Mail, MapPin } from 'lucide-react';
 import Link from 'next/link';
 
 export default function Booking() {
-  const whatsappLink = `https://wa.me/6281234567890?text=${encodeURIComponent("Halo, saya tertarik untuk menyewa Baju Bodo dari TelluNi Fashion Store.")}`;
+  const whatsappLink = `https://wa.me/6282311117703?text=${encodeURIComponent("Halo, saya tertarik untuk menyewa Baju Bodo dari TelluNi Fashion Store.")}`;
 
   return (
     <section id="booking" className="bg-primary/10 py-20 md:py-32">
@@ -22,7 +22,7 @@ export default function Booking() {
               </Link>
             </Button>
             
-            <div className="mt-12 grid grid-cols-1 gap-8 text-left md:grid-cols-3">
+            <div className="mt-12 grid grid-cols-1 gap-8 text-left md:grid-cols-2">
               <div className="flex items-start gap-4">
                 <div className="rounded-md bg-primary/20 p-3 text-primary">
                   <Mail className="h-6 w-6" />
@@ -34,20 +34,21 @@ export default function Booking() {
               </div>
               <div className="flex items-start gap-4">
                 <div className="rounded-md bg-primary/20 p-3 text-primary">
-                  <MapPin className="h-6 w-6" />
-                </div>
-                <div>
-                  <h3 className="font-bold">Alamat</h3>
-                  <p className="text-muted-foreground">Jl. Bugis Raya No. 123, Makassar, Indonesia</p>
-                </div>
-              </div>
-              <div className="flex items-start gap-4">
-                <div className="rounded-md bg-primary/20 p-3 text-primary">
                   <Phone className="h-6 w-6" />
                 </div>
                 <div>
                   <h3 className="font-bold">Telepon</h3>
-                  <a href="tel:+6281234567890" className="text-muted-foreground transition-colors hover:text-primary">+62 812-3456-7890</a>
+                  <a href="tel:+6282311117703" className="text-muted-foreground transition-colors hover:text-primary">+62 823-1111-7703</a>
+                </div>
+              </div>
+              <div className="flex items-start gap-4 md:col-span-2">
+                <div className="rounded-md bg-primary/20 p-3 text-primary">
+                  <MapPin className="h-6 w-6" />
+                </div>
+                <div>
+                  <h3 className="font-bold">Alamat</h3>
+                  <p className="text-muted-foreground">Jl. Poros Camming, Walimpong, Kec. Bengo Kab. Bone</p>
+                  <p className="text-muted-foreground mt-1">Perumahan Mega Mutiara Makassar, Mutiara Gading 2 Ekstension</p>
                 </div>
               </div>
             </div>
