@@ -25,7 +25,7 @@ const TiktokIcon = (props: SVGProps<SVGSVGElement>) => (
 
 export default function Footer() {
   return (
-    <footer className="bg-secondary/50">
+    <footer id="contact" className="bg-secondary/50">
       <div className="container py-8">
         <div className="flex flex-col items-center justify-between gap-4 md:flex-row">
           <p className="text-sm text-muted-foreground">

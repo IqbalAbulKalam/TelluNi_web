@@ -2,12 +2,11 @@ import Link from 'next/link';
 import { Logo } from '@/components/logo';
 
 const navLinks = [
-  { href: '#home', label: 'Beranda' },
   { href: '#about', label: 'Tentang' },
   { href: '#collections', label: 'Koleksi' },
   { href: '#gallery', label: 'Galeri' },
   { href: '#testimonials', label: 'Testimoni' },
-  { href: '#booking', label: 'Pemesanan' },
+  { href: '#contact', label: 'Kontak' },
 ];
 
 export default function Header() {
