@@ -9,7 +9,7 @@ export default function Hero() {
         <AnimateInView>
           <div className="text-center">
             <h1 className="font-headline text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl">
-              Rental Baju Bodo di TelluNi Fashion Store
+              Rental Baju Bodo mu di TelluNi
             </h1>
             <p className="mx-auto mt-6 max-w-[700px] text-lg text-muted-foreground md:text-xl">
               Mempercantik Momen Bahagiamu
