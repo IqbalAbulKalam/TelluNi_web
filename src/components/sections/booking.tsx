@@ -29,7 +29,7 @@ export default function Booking() {
                 </div>
                 <div>
                   <h3 className="font-bold">Email</h3>
-                  <a href="mailto:kontak@telluni.com" className="text-muted-foreground transition-colors hover:text-primary">kontak@telluni.com</a>
+                  <a href="mailto:Telluniofficial@gmail.com" className="text-muted-foreground transition-colors hover:text-primary">Telluniofficial@gmail.com</a>
                 </div>
               </div>
               <div className="flex items-start gap-4">
